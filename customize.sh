@@ -14,7 +14,5 @@ rm -rf k3screenctrl package/lean
 git clone packages https://github.com/coolsnowwolf/packages
 git clone kenzo https://github.com/kenzok8/openwrt-packages
 git clone luci https://github.com/coolsnowwolf/luci
-git clone routing https://git.openwrt.org/feed/routing.git;openwrt-19.07
-git clone telephony https://git.openwrt.org/feed/telephony.git;openwrt-19.07
 git clone helloworld https://github.com/fw876/helloworld
 git clone small https://github.com/kenzok8/small
